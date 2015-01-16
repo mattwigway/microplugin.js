@@ -1,0 +1,7 @@
+{
+  "name": "microplugin.js",
+  "description": "A lightweight plugin / dependency system for libraries",
+  "version": "0.0.3",
+  "scripts": "microplugin.js",
+  "main": "microplugin.js"
+}
